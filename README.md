@@ -1,13 +1,14 @@
-# Black Hat Arsenal Tools Official Account
+# Official Black Hat Arsenal Tools Github Repository
 
-![Arsenal](http://www.toolswatch.org/wp-content/uploads/2016/12/bh-arsenals-cfp-768x153.png) 
+![Arsenal](https://www.toolswatch.org/wp-content/uploads/2016/12/bharsenal.png) 
 
 This github account maps to the Black Hat Arsenal tools since its inception in 2011. 
 For readibility, the tools are classified by category and not by session. 
 
 This account is maintained by [ToolsWatch.org](https://www.toolswatch.org) the official organizer of the Black Hat Arsenal event
 
-[Contact us in twitter](https://twitter.com/toolswatch)
+
+**Disclaimer**: Tools not demonstrated during a Black Hat Arsenal session will not be accepted
 
 ### How to Submit ? 
 
@@ -19,3 +20,7 @@ Change tool_name.md to your tool name (ex: lynis.md)
 
 If you think we missed a category, do not hesitate to contact us (or push request).
 
+### Contact us
+
+* [Twitter](https://twitter.com/toolswatch)
+* [Email](mailto:hacker@toolswatch.org)
